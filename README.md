@@ -15,11 +15,11 @@
 
 ## 👨👩 Social
 
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:steadysam32@gmail.com)
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kdr-drn/)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@steadysam32)
-[![website](https://img.shields.io/badge/%20-kaggle-blue?&style=for-the-badge&logoColor=white)](https://www.kaggle.com/kadirduran/account?isEditing=False)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KdrDrn" alt="KdrDrn" /> </p>
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:azizozmen@gmail.com)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-%C3%B6zmen-ph-d-in-criminal-justice/?locale=en_US)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@azizozmen1)
+[![website](https://img.shields.io/badge/%20-kaggle-blue?&style=for-the-badge&logoColor=white)](https://https://www.kaggle.com/azizozmen)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AzizOzmen" alt="AzizOzmen" /> </p>
 
 
 # 💻 Data Visualization 
@@ -56,9 +56,9 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=KdrDrn&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KdrDrn&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KdrDrn&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=AzizOzmen&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AzizOzmen&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizOzmen&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
 
