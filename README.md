@@ -1,17 +1,11 @@
-- 👋 Hi, I’m @AzizOzmen
+## Hi there. I'm Aziz Ozmen 👋
+
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me azizozmen@gmail.com
-
-
-## Hi there. I'm Aziz...👋
-
-
 - 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💬 I am happy to teach you what I know and eager to learn what you will offer  
-
+- 🌱 I’m currently learning NLP (Neuro Linguistic Programming)
+- 💞️ I’m looking to collaborate on Machine Learning projects
+- 💬 I will be honored to share my experience and knowledge with you and always be eager to learn what you will offer  
+- 📫 How to reach me azizozmen@gmail.com
 
 ## 👨👩 Social
 
